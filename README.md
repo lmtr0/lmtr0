@@ -6,10 +6,10 @@ I am a student, so I don't have any major projects, but in general, something ra
 
 ## 🌱 I’m currently learning 
 - Rust
-- C++ and C
-- CSS
+- C++ / C, GO, Python 
+- CSS, HTML
 - Javascript / Typescript
-- 
+- llvm
 
 ## 👯 I’m looking to collaborate on
 - Open Source Cross Platform applications and libraries
@@ -23,5 +23,5 @@ I am a student, so I don't have any major projects, but in general, something ra
 - Linux in general (except ubuntu) 
 
 ## 📫 How to reach me
-- Send me an email at lmtr0@protonmail.ch
-- Send me an email at lmtr0@outlook.com
+- Send me an email at <lmtr0@protonmail.ch>
+- Send me an email at <lmtr0@outlook.com>

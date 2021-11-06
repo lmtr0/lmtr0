@@ -14,7 +14,7 @@ I am a student, so I don't have any major projects, but in general, something ra
 ## 👯 I’m looking to collaborate on
 - Open Source Cross Platform applications and libraries
 
-## 🤔 I’m looking for help with
+## 🤔 I’m helping with
 - [bgfx.rs](https://github.com/litch0/bgfx-rs)
 
 ## 📘 Author of

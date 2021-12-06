@@ -16,7 +16,7 @@ I am a student, so I don't have any major projects, but in general, something ra
 
 ## 🤔 I’m helping with
 - [bgfx.rs](https://github.com/litch0/bgfx-rs)
-
+- [The Higenku Project](https://higenku.org), [source](https://gitlab.com/higenku)
 ## 📘 Author of
 - [Rocket.Svelte.GraphQL Template](https://github.com/litch0/routify-rocket.rs-template)
 

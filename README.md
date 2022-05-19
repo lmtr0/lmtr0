@@ -1,5 +1,5 @@
 ## Hello there! 👋
-I am a Programmer that likes to make open source projects and test random stuff!
+I am a Programmer that likes to make open source projects and test random stuff! I'm more active in my [gitlab](https://gitlab.com/lmtr0)
 
 ## 🔭 I’m currently working on
 I am a student, so I don't have any major projects, but in general, something random that I found on the internet and wanted to checkout

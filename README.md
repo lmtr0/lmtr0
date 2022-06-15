@@ -38,7 +38,7 @@ I am a student and self taugh dev from 🇧🇷
 
 ## 🤔 I’m helping with
 - [The Higenku Project](https://higenku.org), [source](https://gitlab.com/higenku)
-- 
+
 ## 💬 Ask me about
 - Fun libraries to work with
 - C#, C++, C, Rust, Javascript, Typescript and Python

@@ -1,25 +1,44 @@
 ## Hello there! 👋
 I am a Programmer that likes to make open source projects and test random stuff! I'm more active in my [gitlab](https://gitlab.com/lmtr0)
 
-## 🔭 I’m currently working on
-I am a student, so I don't have any major projects, but in general, something random that I found on the internet and wanted to checkout
+## About me
+I am a student and self taugh dev from 🇧🇷
 
 ## 🌱 I’m currently learning 
-- Rust
-- C++ / C, GO, Python 
-- CSS, HTML
-- Javascript / Typescript
-- llvm
+- Nothing at the moment
+
+## I work with
+- backend:
+   - Rust
+   - Go
+   - C#
+   - C++ / C
+   - Deno / Node
+- frontend:
+   - Svelte
+   - Solidjs
+   - Vue
+   - Preact
+   - ~react~
+- Database:
+   - Couchdb
+   - Postgress
+   - Redis
+   - MeiliSearch / Sonic
+   - Mongodb
+   - ArangoDb
+- Desktop:
+  - Qt
+  - Rust
+  - Tauri
+  - nwjs / electron / neutralino
 
 ## 👯 I’m looking to collaborate on
 - Open Source Cross Platform applications and libraries
 
 ## 🤔 I’m helping with
-- [bgfx.rs](https://github.com/litch0/bgfx-rs)
 - [The Higenku Project](https://higenku.org), [source](https://gitlab.com/higenku)
-## 📘 Author of
-- [Rocket.Svelte.GraphQL Template](https://github.com/litch0/routify-rocket.rs-template)
-
+- 
 ## 💬 Ask me about
 - Fun libraries to work with
 - C#, C++, C, Rust, Javascript, Typescript and Python

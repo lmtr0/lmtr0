@@ -46,5 +46,5 @@ I am a student and self taugh dev from 🇧🇷
 - Linux in general (except ubuntu) 
 
 ## 📫 How to reach me
-- Send me an email at <lmtr0@protonmail.ch>
+- Send me an email at <lmtr0@proton.me>
 - Send me an email at <lmtr0@outlook.com>

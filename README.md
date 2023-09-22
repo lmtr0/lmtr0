@@ -1,5 +1,5 @@
 ## Hello there! 👋
-I am a Self-taught Programmer that likes to make open source projects and test random stuff! I'm more active in my [gitlab](https://gitlab.com/lmtr0)
+I am a Self-taught Programmer that likes to work on open source projects and test random stuff! I'm more active in my [gitlab](https://gitlab.com/lmtr0)
 
 ## About me
 I am a student and self taugh dev from 🇧🇷

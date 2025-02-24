@@ -21,18 +21,15 @@ I am a student and self taugh dev from 🇧🇷
    - Preact
    - ~react~
 - Database:
-   - Couchdb
+   - Yugabyte
    - Postgress
    - Redis
    - MeiliSearch / Sonic
    - Mongodb
    - ArangoDb
-- Desktop:
-  - Qt
-  - Rust
-  - Tauri
-  - nwjs / electron / neutralino
-
+- Queues:
+   - RabbitMQ
+   - NATS
 ## 👯 I’m looking to collaborate on
 - Open Source Cross Platform applications and libraries
 
@@ -42,9 +39,8 @@ I am a student and self taugh dev from 🇧🇷
 ## 💬 Ask me about
 - Fun libraries to work with
 - C#, C++, C, Rust, Javascript, Typescript and Python
-- Mongodb, CouchDb
-- Linux in general (except ubuntu) 
+- YugabyteDB, Mongodb, CouchDb
+- Linux in general
 
 ## 📫 How to reach me
 - Send me an email at <lmtr0@proton.me>
-- Send me an email at <lmtr0@outlook.com>
